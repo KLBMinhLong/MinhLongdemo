@@ -1,0 +1,3 @@
+server:
+  port: 9090           # Đổi cổng chạy ứng dụng (mặc định là 8080)
+  
